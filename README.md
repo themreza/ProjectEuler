@@ -1,2 +1,2 @@
 # ProjectEuler
-My solutions for ProjectEuler, a collection of programming challenges. https://projecteuler.net/archives
+My solutions for Project Euler, a collection of programming challenges. https://projecteuler.net/archives
