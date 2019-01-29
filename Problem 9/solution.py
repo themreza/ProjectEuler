@@ -27,7 +27,8 @@ for a in range(a_upper_bound, 1, -1):
       if a+b+c == target_sum and a**2 + b**2 == c**2:
         # Display the results
         output = "The Pythagorean triplet %r, %r, %r has the product %r." % (a, b, c, a*b*c)
-        print(output)
         end = time.time()
+        print(output)
+        print("This program took", end - start, "seconds to finish.")
         quit()
       
